@@ -1,4 +1,4 @@
-module github.com/matti/dnsclient
+module github.com/matti/go-dnsclient
 
 go 1.18
 
